@@ -1,0 +1,6 @@
+Credentials cache: API:2ECAFD16-3D70-4CDA-A17C-9ABFDB6908F2
+        Principal: mweerts@S19.BE
+
+  Issued                Expires               Principal
+Aug  5 17:55:37 2019  Aug  6 03:55:16 2019  krbtgt/S19.BE@S19.BE
+
